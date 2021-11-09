@@ -12,7 +12,7 @@ conda activate susquehanna
 jupyter lab
 ```
 
-The data used here can be downloaded from: 
+The data used here can be downloaded from: https://www.kaggle.com/hydroowen/susquehanna-data
 
 After downloading, please unzip the files, and put them in the "data" directory:
 
