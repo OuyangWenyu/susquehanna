@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+data/basin_timeseries_v1p2_modelOutput_daymet
+data/boundaries-shapefiles-by-aggeco
+data/camels_attributes_v2.0
+data/lstm_output
+data/usgs_streamflow
+data/HCDN_nhru_final_671.*
+data/*.zip
+results
